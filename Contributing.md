@@ -1,0 +1,2 @@
+We are happy to receive additional samples.
+If want to contribute samples, please send an email to https://www.darkreading.com/vulnerabilities-threats/nas-vendor-says-several-products-likely-contain-dirty-pipe-flaw
